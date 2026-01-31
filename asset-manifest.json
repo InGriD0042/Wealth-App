@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/InGriD0042/Wealth-App/static/css/main.56c90c62.css",
+    "main.js": "/InGriD0042/Wealth-App/static/js/main.fef0bbee.js",
+    "index.html": "/InGriD0042/Wealth-App/index.html",
+    "main.56c90c62.css.map": "/InGriD0042/Wealth-App/static/css/main.56c90c62.css.map",
+    "main.fef0bbee.js.map": "/InGriD0042/Wealth-App/static/js/main.fef0bbee.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.56c90c62.css",
+    "static/js/main.fef0bbee.js"
+  ]
+}
