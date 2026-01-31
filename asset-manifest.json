@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Wealth-App/static/css/main.56c90c62.css",
-    "main.js": "/Wealth-App/static/js/main.e91ce8c8.js",
+    "main.css": "/Wealth-App/static/css/main.d003b4ba.css",
+    "main.js": "/Wealth-App/static/js/main.1d76bd42.js",
     "index.html": "/Wealth-App/index.html",
-    "main.56c90c62.css.map": "/Wealth-App/static/css/main.56c90c62.css.map",
-    "main.e91ce8c8.js.map": "/Wealth-App/static/js/main.e91ce8c8.js.map"
+    "main.d003b4ba.css.map": "/Wealth-App/static/css/main.d003b4ba.css.map",
+    "main.1d76bd42.js.map": "/Wealth-App/static/js/main.1d76bd42.js.map"
   },
   "entrypoints": [
-    "static/css/main.56c90c62.css",
-    "static/js/main.e91ce8c8.js"
+    "static/css/main.d003b4ba.css",
+    "static/js/main.1d76bd42.js"
   ]
 }
